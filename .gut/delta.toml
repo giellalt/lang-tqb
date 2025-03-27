@@ -1,0 +1,10 @@
+template = ""
+rev_id = 205
+template_sha = "510d874126dd43695c24100b6bb8e7f79d27cbcb"
+
+[replacements]
+__LICENSE__ = "GPLv3"
+__REPO__ = "lang-tqb"
+__UND2C__ = "tqb"
+__UNDEFINED__ = "Tembé"
+__UND__ = "tqb"
