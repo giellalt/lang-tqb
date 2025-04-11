@@ -4,5 +4,11 @@
 
 LEXICON Nouns
 noun+N:noun    Cases   ;
+kuzà+N:kuzà Cases "woman" ;
+awa+N:awa Cases "man" ;
+teko+N:teko Cases "people" ;
+màg+N:màg Cases "mango" ;
+tapiʼir+N:tapiʼir Cases "tapir" ;
+kaʼi+N:kaʼi Cases "monkey" ;
 
 ! vim: set ft=xfst-lexc:
