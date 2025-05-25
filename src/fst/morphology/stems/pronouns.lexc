@@ -4,5 +4,17 @@
 
 LEXICON Pronouns
 pronoun    Cases   ;
+he+Pron+Pers+Sg1+Nom:hê # ;
+he+Pron+Pers+Sg1+Com:hêiruramo # "comigo" ;
+he+Pron+Pers+Sg1+Dat:hêréhé # "por minha" ;
+
+ne+Pron+Pers+Sg2+Nom:nê # ;
+!ne+Pron+Pers+Sg2+Com:nêiruramo # "comigo" ;
+ne+Pron+Pers+Sg2+Dat:nêréhé # "por te" ;
+ne+Pron+Pers+Sg2+Dat:nêwé # "para ti" ;
+ne+Pron+Pers+Sg2+Gen:nêwi # "de ti" ;
+
+zane+Pron+Pers+Pl12+Nom:zanê # ;
+
 
 ! vim: set ft=xfst-lexc:
